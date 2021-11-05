@@ -2,8 +2,8 @@
 #define FIND_MIN
 
 int findMinimum(int collection[], int size) {
-    // complete the function so that it return the
-    // minimum value from the collection array
+    // complete the function so that it returns the
+    // minimum value from the collection array.
     return 0;
 }
 
