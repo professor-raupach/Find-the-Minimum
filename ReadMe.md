@@ -4,4 +4,4 @@ In this assignment you'll need finish the findMinimum function in the findMinimu
 
 A test script is also provided so that you can see if your solution is correct.  
 
-***Style counts*** comment you code and use good variable names.
+***Style counts*** comment your code and use descriptive variable names.
