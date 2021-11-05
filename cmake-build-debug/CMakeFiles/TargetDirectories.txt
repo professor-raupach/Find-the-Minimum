@@ -1,0 +1,4 @@
+/Users/paulraupach/teaching/cs201 - Computer Science II/LAInterviewQuestion/FindMinimum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/paulraupach/teaching/cs201 - Computer Science II/LAInterviewQuestion/FindMinimum/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/paulraupach/teaching/cs201 - Computer Science II/LAInterviewQuestion/FindMinimum/cmake-build-debug/CMakeFiles/TestFindMinimum.dir
+/Users/paulraupach/teaching/cs201 - Computer Science II/LAInterviewQuestion/FindMinimum/cmake-build-debug/CMakeFiles/FindMinimum.dir
