@@ -12,7 +12,7 @@ TEST_CASE("Should find the minimum in 1,2,3,4,5,6") {
 
 TEST_CASE("Should find the minimum in 9, 8,7,6,5,4,3,2") {
     int list[] = {9,8,7,6,5,4,3,2};
-    int min = findMinimum(list, 6);
+    int min = findMinimum(list, 8);
 
     REQUIRE(min == 2);
 }
